@@ -1,5 +1,3 @@
-
--- [IP List]
 1.0.0.1
 1.0.0.2
 1.0.0.3
@@ -197,9 +195,6 @@
 217.169.20.23
 223.5.5.5
 223.6.6.6
-
-
--- [Domain List]
 1dot1dot1dot.cloudflare-dns.com
 1dot1dot1dot1.cloudflare-dns.com
 2.dnscrypt-cert.dns.seby.io
